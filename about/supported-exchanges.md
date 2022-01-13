@@ -1,17 +1,17 @@
 # Supported Exchanges
 
-| Exchange     | Code | [Default](../strategies/built-in-strategies.md#default-strategy) | [Stop-Loss](../strategies/built-in-strategies.md#stop-loss-strategy) |
-| ------------ | ---- | :--------------------------------------------------------------: | :------------------------------------------------------------------: |
-| Binance      | BINA |                       :white\_check\_mark:                       |                         :white\_check\_mark:                         |
-| Binance.US   | BIUS |                       :white\_check\_mark:                       |                         :white\_check\_mark:                         |
-| Bitstamp     | BITS |                       :white\_check\_mark:                       |                                  :x:                                 |
-| Bittrex      | BTRX |                       :white\_check\_mark:                       |                         :white\_check\_mark:                         |
-| CEX.IO       | CXIO |                       :white\_check\_mark:                       |                                  :x:                                 |
-| Coinbase Pro | GDAX |                       :white\_check\_mark:                       |                                  :x:                                 |
-| Crypto.com   | CRO  |                       :white\_check\_mark:                       |                                  :x:                                 |
-| HitBTC       | HITB |                       :white\_check\_mark:                       |                                  :x:                                 |
-| KuCoin       | KUCN |                       :white\_check\_mark:                       |                      :ballot\_box\_with\_check:                      |
-| Wootrade     | WOO  |                       :white\_check\_mark:                       |                                  :x:                                 |
+| Exchange     | Code | [Default](../strategies/built-in-strategies.md#default-strategy) | [Stop-Loss](../strategies/built-in-strategies.md#stop-loss-strategy) |   |
+| ------------ | ---- | :--------------------------------------------------------------: | :------------------------------------------------------------------: | - |
+| Binance      | BINA |                       :white\_check\_mark:                       |                         :white\_check\_mark:                         |   |
+| Binance.US   | BIUS |                       :white\_check\_mark:                       |                         :white\_check\_mark:                         |   |
+| Bitstamp     | BITS |                       :white\_check\_mark:                       |                                  :x:                                 |   |
+| Bittrex      | BTRX |                       :white\_check\_mark:                       |                         :white\_check\_mark:                         |   |
+| CEX.IO       | CXIO |                       :white\_check\_mark:                       |                                  :x:                                 |   |
+| Coinbase Pro | GDAX |                       :white\_check\_mark:                       |                                  :x:                                 |   |
+| Crypto.com   | CRO  |                       :white\_check\_mark:                       |                                  :x:                                 |   |
+| HitBTC       | HITB |                       :white\_check\_mark:                       |                                  :x:                                 |   |
+| KuCoin       | KUCN |                       :white\_check\_mark:                       |                      :ballot\_box\_with\_check:                      |   |
+| Wootrade     | WOO  |                       :white\_check\_mark:                       |                                  :x:                                 |   |
 
 {% hint style="info" %}
 :ballot\_box\_with\_check:Partially Supported
